@@ -205,6 +205,9 @@ export default {
 
 <style lang="scss" scoped>
 
+.login{
+  background: linear-gradient(rgba(196,102,0,.2),rgba(155,89,182,.2)),url(../../assets/bg.png);
+}
 .login-container {
   min-height: 100%;
   width: 100%;
